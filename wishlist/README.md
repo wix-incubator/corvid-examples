@@ -5,7 +5,7 @@
 In this example, a site member can add products in a Wix Store to a wishlist. A My Wishlist page displays the member’s wishlist.
 
 ## How We Built It
-### The collection we added:
+
 #### We created the products-wishlist​ collection with the following fields:
 * User Id: The ID of the member who is adding an item to their wishlist
 * Product: A reference field that points to the product the member added to their wishlist
