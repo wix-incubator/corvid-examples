@@ -53,11 +53,9 @@ Filter using the continents dropdown: When a site visitor selects a continent in
 
  
 ### Next Steps
-Open this example in the Editor to work with the template.
-
-Publish the site.
-
-Learn how to work with examples in Wix Code.
+1. Open this example in the Editor to work with the template.
+2. Publish the site.
+3. [Learn how to work with examples in Wix Code](https://support.wix.com/en/article/how-to-work-with-examples-in-wix-code).
 
 ### Learn More
 Video: How to Create a Search for Your Database
