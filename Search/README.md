@@ -17,19 +17,24 @@ Continents collection: Lists the continents of all destinations.
 ### Page Elements
 On the ARTICLES page, we added the following page elements:
 
-#### Repeater: To display the country, image, and title of each destination article.
+#### Repeater: 
+To display the country, image, and title of each destination article.
 
-#### Dataset: The Articles dataset connects the repeater to the Articles collection.
+#### Dataset: 
+The Articles dataset connects the repeater to the Articles collection.
 
-#### Button: A “Read More” button in the repeater. Visitors choose a country they want to know more about and click the button to read the article on the Articles dynamic item page.
+#### Button: 
+A “Read More” button in the repeater. Visitors choose a country they want to know more about and click the button to read the article on the Articles dynamic item page.
 
  
 
 To help visitors quickly find the articles they want, we also added two user input elements:
 
-#### Search bar: Visitors search for specific destinations by typing text in a text input element. Only destinations with #### article titles that match the search value will be displayed.
+#### Search bar: 
+Visitors search for specific destinations by typing text in a text input element. Only destinations with #### article titles that match the search value will be displayed.
 
-#### Dropdown menu: Visitors filter the destinations according to continent by selecting a continent from a list.
+#### Dropdown menu: 
+Visitors filter the destinations according to continent by selecting a continent from a list.
 
 ## Code
 On the ARTICLES page, we used code to do the following:
@@ -49,12 +54,12 @@ When we type fast we see the list of destinations flicker. This is because the r
 Filter using the continents dropdown: When a site visitor selects a continent in the dropdown list, filter the dataset so that only destinations inside the selected continent are loaded into the repeater. Also filter the destinations according to the the last search value entered in the search bar.
 
  
-Next Steps
+### Next Steps
 Open this example in the Editor to work with the template.
 
 Publish the site.
 
 Learn how to work with examples in Wix Code.
 
-Learn More
+### Learn More
 Video: How to Create a Search for Your Database
