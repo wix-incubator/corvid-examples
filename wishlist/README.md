@@ -1,5 +1,5 @@
 # Wishlist
-### Let customers add items to their wishlist and save to purchase later
+Let customers add items to their wishlist and save to purchase later
 
 ## What We Built
 In this example, a site member can add products in a Wix Store to a wishlist. A My Wishlist page displays the member’s wishlist.
