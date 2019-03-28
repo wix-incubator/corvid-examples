@@ -6,9 +6,9 @@ Clicking on a recipe in the gallery takes you to the dynamic item page for that 
 
 The Recipes (Title) dynamic page shows a single recipe based on the published URL of the page. The dynamic page URL is set to select the recipe to display based on its title. The URL has the following pattern:
 
-```
+``
 http://www.../  recipes/{ title }
-```
+``
 
 The { title } is a value from the Title field in the recipes collection.
 
