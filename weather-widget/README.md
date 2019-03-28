@@ -31,9 +31,9 @@ Then we added code to do the following:
 3. Run the fetch request:
   How did we know exactly how to write the fetch URL? We looked at the API reference and examples on the 3rd party service’s site.
   Our URL includes the following:
-  * A current weather query for the selected city
-  * The API key that allows us access
-  * An optional parameter requesting the weather data in metric units (Celsius).
+    * A current weather query for the selected city
+    * The API key that allows us access
+    * An optional parameter requesting the weather data in metric units (Celsius).
 
   Note: We used temperate literals in the fetch URL so that we could include variables in the path.
 
