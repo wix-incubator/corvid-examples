@@ -1,22 +1,22 @@
 # Create a Weather Widget
 ### Fetch data from a 3rd party service to create a widget
 
-### What We Built
+## What We Built
 In this example, we fetch data from a 3rd party weather service to create our own customized weather widget.
 
-### How We Built It
+## How We Built It
 We used OpenWeatherMap as our 3rd party service. We registered for an API key on their site, which allows us to use their services.
 
-#### Page Elements
+### Page Elements
 In our site we added the following page elements:
 
 Dropdown list of cities: Site visitors select a city to view current weather data. The dropdown choice “values” are defined as city names listed in the 3rd party service site. We added an event handler in the dropdown element’s Properties panel that runs when a site visitor selects a city.
 
-##### Background image: This image changes depending on whether it’s sunny or cloudy in the selected city.
+#### Background image: This image changes depending on whether it’s sunny or cloudy in the selected city.
 
 Two text elements: These display the weather description and temperature in the selected city.
 
-#### Code
+### Code
 Then we added code to do the following:
 
 Import the fetch function: We imported the fetch function used to get the weather data JSON object from the 3rd party site.
