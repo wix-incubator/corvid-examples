@@ -1,5 +1,5 @@
 # Create a Weather Widget
-### Fetch data from a 3rd party service to create a widget
+#### Fetch data from a 3rd party service to create a widget
 
 ## What We Built
 In this example, we fetch data from a 3rd party weather service to create our own customized weather widget.
