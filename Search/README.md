@@ -57,5 +57,5 @@ Filter using the continents dropdown: When a site visitor selects a continent in
 2. Publish the site.
 3. [Learn how to work with examples in Wix Code](https://support.wix.com/en/article/how-to-work-with-examples-in-wix-code).
 
-### Learn More
-[Video: How to Create a Search for Your Database](https://youtu.be/Hx7_8-lRsW0)
+### For more information go to:
+https://www.wix.com/code/home/example/Search
