@@ -14,8 +14,7 @@ Articles collection: Contains articles about different countries to visit. Each 
 Continents collection: Lists the continents of all destinations.
 
  
-### Page Elements
-On the ARTICLES page, we added the following page elements:
+### Page Elements ### On the ARTICLES page, we added the following page elements:
 
 #### Repeater: 
 To display the country, image, and title of each destination article.
