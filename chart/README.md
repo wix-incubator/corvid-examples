@@ -3,7 +3,7 @@
 
 This example demonstrates how to use the HTML component to embed a chart on a page. This is just one of the many things you can embed in your site using the HTML component.
 
-Here we embed a [https://www.chartjs.org/](Chart.js) chart. The HTML code for the chart is entered into the HTML Component using its Edit Code button. The page and the HTML component communicate with each other using the postMessage and onMessage functions.
+Here we embed a [chart.js](https://www.chartjs.org/) chart. The HTML code for the chart is entered into the HTML Component using its Edit Code button. The page and the HTML component communicate with each other using the postMessage and onMessage functions.
 
 When the page loads and each time a year is selected using the dropdown element, the page sends a message to the HTML component using the postMessage function. The message contains the values to display in the chart. The HTML component receives the message using its onMessage function and updates the chart accordingly.
 
