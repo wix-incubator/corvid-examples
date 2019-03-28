@@ -18,6 +18,6 @@ The  ``{ title }``  is a value from the Title field in the recipes collection.
 
 Page elements are connected to the Recipes Item dataset to show the recipe information from the recipes collection. You can open this collection from the Database section of the Site Structure sidebar. The Foodista.com link is created using the html property of a text element. We get the link to the recipe shown on the page from the dynamic page’s dataset in the dataset’s onReady event handler.
 
-The recipes in this example are from Foodista.com - The Cooking Encyclopedia Everyone Can Edit.
+The recipes in this example are from [Foodista.com](https://foodista.com/) - The Cooking Encyclopedia Everyone Can Edit.
 
 For more information go to: https://www.wix.com/code/home/example/Text-Index
