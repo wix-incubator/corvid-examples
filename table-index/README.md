@@ -1,3 +1,6 @@
+# Text Index
+### Create a custom index for collection content
+
 This example demonstrates how to use a table as an index for collection content.
 
 The Table Index page uses a Table element to show the photo and Title fields for recipes in the recipes collection. The table is connected to the Recipes dataset.
