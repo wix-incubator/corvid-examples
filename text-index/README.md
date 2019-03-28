@@ -1,5 +1,5 @@
 # Text Index
-
+### Create a custom index for collection content
 This example demonstrates how to use a text element, instead of a table or gallery, to create a customized index.
 
 The List Index page shows a list of recipes that is read from the recipes collection using the Dataset API. We use the dataset onReady function to register an event handler that retrieves the first 50 items, formats them for display, links to their corresponding dynamic item pages and places them in a single text element.
