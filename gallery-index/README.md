@@ -19,4 +19,5 @@ Page elements are connected to the Recipes Item dataset to show the recipe infor
 
 The recipes in this example are from Foodista.com - The Cooking Encyclopedia Everyone Can Edit.
 
-for more information go to: https://www.wix.com/code/home/example/Gallery-Index
+### Learn More:
+https://www.wix.com/code/home/example/Gallery-Index
