@@ -1,12 +1,12 @@
 # Search
 ### Let visitors quickly search your site content
 
-## What We Built
+### What We Built
 In this example, site visitors can search and filter a list of countries to quickly find travel articles they want to read. They can search for keywords in the articles’ titles, and filter the countries according to continent.
 
 
-## How We Built It​
-### Collections
+### How We Built It​
+#### Collections
 We added two database collections to our site:
 
 Articles collection: Contains articles about different countries to visit. Each item in the collection includes a country, continent, image, article title, and article content.
@@ -14,28 +14,27 @@ Articles collection: Contains articles about different countries to visit. Each 
 Continents collection: Lists the continents of all destinations.
 
  
-### Page Elements ### On the ARTICLES page, we added the following page elements:
+#### Page Elements 
+On the ARTICLES page, we added the following page elements:
 
-#### Repeater: 
+##### Repeater: 
 To display the country, image, and title of each destination article.
 
-#### Dataset: 
+##### Dataset: 
 The Articles dataset connects the repeater to the Articles collection.
 
-#### Button: 
+##### Button: 
 A “Read More” button in the repeater. Visitors choose a country they want to know more about and click the button to read the article on the Articles dynamic item page.
-
- 
 
 To help visitors quickly find the articles they want, we also added two user input elements:
 
-#### Search bar: 
+##### Search bar: 
 Visitors search for specific destinations by typing text in a text input element. Only destinations with #### article titles that match the search value will be displayed.
 
-#### Dropdown menu: 
+##### Dropdown menu: 
 Visitors filter the destinations according to continent by selecting a continent from a list.
 
-## Code
+### Code
 On the ARTICLES page, we used code to do the following:
 
 Set up the dropdown: When the page loads, map the list of continents in the Continents collection into the dropdown list. Also add an “All Continents” option.
