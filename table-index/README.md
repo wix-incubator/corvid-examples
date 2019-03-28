@@ -1,5 +1,5 @@
-# Text Index
-### Create a custom index for collection content
+# Table Index
+### Create a table index to display collection content
 
 This example demonstrates how to use a table as an index for collection content.
 
