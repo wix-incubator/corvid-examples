@@ -6,7 +6,7 @@ The List Index page shows a list of recipes that is read from the recipes collec
 [Dataset API](https://www.wix.com/code/reference/wix-dataset.html)
 . We use the dataset onReady function to register an event handler that retrieves the first 50 items, formats them for display, links to their corresponding dynamic item pages and places them in a single text element.
 
-A text element can accept formatted text using its html property. We use standard HTML formatting on the text, parsed from the dataset, to format the text and give each item the appearance of being in a separate section. For example, the lines between sections are created using a carefully sized string of x’s contained within HTML span tags where the background and foreground colors are set to match the background color of the page.  
+A [text element](https://www.wix.com/code/reference/$w.Text.html) can accept formatted text using its html property. We use standard HTML formatting on the text, parsed from the dataset, to format the text and give each item the appearance of being in a separate section. For example, the lines between sections are created using a carefully sized string of x’s contained within HTML span tags where the background and foreground colors are set to match the background color of the page.  
 
 Using a similar approach, you can use a text element to create your own customized index.
 
