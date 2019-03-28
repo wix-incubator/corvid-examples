@@ -1,13 +1,3 @@
-Table Index
-Create a table index to display collection content
-CONTENT EXAMPLES
-https://www.wix.com/code-examples/v2-content-table
-
-Open In Editor
-NEXT EXAMPLE
-
-Turn on Developer Tools in the Code menu.
-
 This example demonstrates how to use a table as an index for collection content.
 
 The Table Index page uses a Table element to show the photo and Title fields for recipes in the recipes collection. The table is connected to the Recipes dataset.
