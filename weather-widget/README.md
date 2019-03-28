@@ -34,8 +34,7 @@ Then we added code to do the following:
     * A current weather query for the selected city
     * The API key that allows us access
     * An optional parameter requesting the weather data in metric units (Celsius).
-
-  Note: We used temperate literals in the fetch URL so that we could include variables in the path.
+    Note: We used temperate literals in the fetch URL so that we could include variables in the path.
 
 4. Assign weather data to text elements: We extracted the weather description and temperature from the JSON object and assigned them to the text elements.
 
