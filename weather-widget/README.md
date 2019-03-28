@@ -20,27 +20,23 @@ Two text elements: These display the weather description and temperature in the 
 ### Code
 Then we added code to do the following:
 
-Import the fetch function: We imported the fetch function used to get the weather data JSON object from the 3rd party site.
+1. Import the fetch function:
+We imported the fetch function used to get the weather data JSON object from the 3rd party site.
 
-Define variables: In the event handler that runs when a new city is selected in the dropdown, we defined variables to store the following:
+2. Define variables:
+In the event handler that runs when a new city is selected in the dropdown, we defined variables to store the following:
+* The value of the selected city in the dropdown
+* The API key we received from the 3rd party service
+* Sources of the sunny and cloudy images
 
-The value of the selected city in the dropdown
+3. Run the fetch request:
+How did we know exactly how to write the fetch URL? We looked at the API reference and examples on the 3rd party service’s site.
+Our URL includes the following:
+* A current weather query for the selected city
+* The API key that allows us access
+* An optional parameter requesting the weather data in metric units (Celsius).
 
-The API key we received from the 3rd party service
-
-Sources of the sunny and cloudy images
-
-Run the fetch request: How did we know exactly how to write the fetch URL? We looked at the API reference and examples on the 3rd party service’s site. Our URL includes the following:
-
-A current weather query for the selected city
-
-The API key that allows us access
-
-An optional parameter requesting the weather data in metric units (Celsius).
-
- 
 Note: We used temperate literals in the fetch URL so that we could include variables in the path.
- 
 
 4. Assign weather data to text elements: We extracted the weather description and temperature from the JSON object and assigned them to the text elements.
 
