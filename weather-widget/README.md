@@ -20,7 +20,7 @@ Two text elements: These display the weather description and temperature in the 
 ### Code
 Then we added code to do the following:
 
-Markup: 1. Import the fetch function:
+1. Import the fetch function:
   We imported the fetch function used to get the weather data JSON object from the 3rd party site.
 
 2. Define variables:
