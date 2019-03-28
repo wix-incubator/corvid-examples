@@ -1,0 +1,25 @@
+// Filename: backend/aModule.jsw (web modules need to have a .jsw extension)
+
+export function multiply(factor1, factor2) {
+    return factor1 * factor2;
+}
+
+
+
+//Use the following code in one of your site's front-end files
+//to call the multiply function from backend/aModule.jsw.
+
+/* 
+import {multiply} from 'backend/aModule';
+
+$w.onReady(function () {
+	
+	multiply(4,5).then(product => {
+	    console.log(product);
+	      // Logs: 20
+	})
+	.catch(error => {
+		console.log(error);
+	});
+});
+*/
