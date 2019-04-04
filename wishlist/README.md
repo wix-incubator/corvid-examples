@@ -20,10 +20,5 @@ Members can click the icon to add the current product to their wishlist or remov
 #### Viewing a wishlist
 We added a My Wishlist page to the Member Pages group. When it loads, it checks the products-wishlist collection for all the products associated with the current member and displays them in the repeater. It also has a group of elements that are displayed if the member's wishlist is empty, prompting them to go shopping.
 
-### Next Steps
-1. Open this example in the Editor to work with the template.
-2. Publish the site and refresh your browser so the Stores collections appear in the Database.
-3. Learn how to work with examples in Wix Code.
-
 ### Learn More
 https://www.wix.com/code/home/example/Wishlist
