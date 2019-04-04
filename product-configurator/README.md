@@ -26,10 +26,5 @@ The pattern and color options for each part are displayed in a repeater and are 
 
 Clicking Add to Cart adds the customized sweater to the visitor’s cart.
 
-### Next Steps
-1. Open this example in the Editor to work with the template.
-2. Publish the site and refresh your browser so the Stores collections appear in the Database.
-3. Learn how to work with examples in Wix Code.
-
 ### Learn More
 https://www.wix.com/code/home/example/Product-Configurator
