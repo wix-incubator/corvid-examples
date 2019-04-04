@@ -51,11 +51,5 @@ When we type fast we see the list of destinations flicker. This is because the r
 
 Filter using the continents dropdown: When a site visitor selects a continent in the dropdown list, filter the dataset so that only destinations inside the selected continent are loaded into the repeater. Also filter the destinations according to the the last search value entered in the search bar.
 
- 
-### Next Steps
-1. Open this example in the Editor to work with the template.
-2. Publish the site.
-3. [Learn how to work with examples in Wix Code](https://support.wix.com/en/article/how-to-work-with-examples-in-wix-code).
-
 ### Learn More:
 https://www.wix.com/code/home/example/Search
