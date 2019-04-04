@@ -6,7 +6,7 @@ The examples in this repository demonstrate some of the exciting features availa
 
 Read the description of each example in its README file.
 View the code for each example. Copy code snippets to use on your site.
-Click the link at the bottom of the README to open the example in the Corvid Resource Center.
+Click the link at the bottom of the README to open the example in the Corvid Resource Center.  
 **From there you can do the following:**
 - See the example code in action in a live site.
 - Open a template of the example in the Wix Editor that you can play around with and customize according to your needs. 
