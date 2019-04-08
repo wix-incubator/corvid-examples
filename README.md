@@ -13,6 +13,9 @@ Click the link at the bottom of the README to open the example in the Corvid Res
 
 **The following is a list of the Corvid examples available in this repository:**
 * **Search:** [Let visitors quickly search your site content](https://github.com/wix-incubator/corvid-examples/tree/master/Search)
+* **Collapse Elements:** [Collapse and expand groups of elements](https://github.com/wix/corvid-examples/tree/master/collapse-elements)
+
+
 * **Chart:** [Use JavaScript post messages to communicate with the HTML component](https://github.com/wix-incubator/corvid-examples/tree/master/chart)
 * **Hide and Show Elements:** [Hide and show elements in response to user interactions](https://github.com/wix-incubator/corvid-examples/tree/master/hide-and-show-elements)
 * **Product Configurator:**	[Give customers tools to fully customize store products and make them one of a kind](https://github.com/wix-incubator/corvid-examples/tree/master/product-configurator)
