@@ -41,4 +41,4 @@ Then we added code to do the following:
 5. We checked if the description was “clear sky” and the temperature was 10 degrees or higher. If so, we displayed the sunny image. If not, we displayed the default cloudy image.
 
 ### Learn More:
-https://www.wix.com/code/home/example/Create-a-Weather-Widget
+https://www.wix.com/corvid/example/Create-a-Weather-Widget
