@@ -27,4 +27,4 @@ The pattern and color options for each part are displayed in a repeater and are 
 Clicking Add to Cart adds the customized sweater to the visitor’s cart.
 
 ### Learn More
-https://www.wix.com/code/home/example/Product-Configurator
+https://www.wix.com/corvid/example/Product-Configurator
