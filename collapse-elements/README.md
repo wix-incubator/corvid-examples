@@ -1,5 +1,5 @@
-# Interactions
-### Collapse and expand groups of elements.
+# Collapse Elements
+# Collapse and expand groups of elements.
 
 This example demonstrates how to integrate collapsable sections into your pages.
 The elements on the page collapse and expand menu sections when a user clicks on one of the arrows.
