@@ -12,4 +12,4 @@ When a user clicks a bar on the chart, the HTML component sends a message to the
 The chart is based on chartjs.org. You can find their repository and license on GitHub.
 
 ### Learn More:
-https://www.wix.com/code/home/example/Chart
+https://www.wix.com/corvid/example/Create-a-Custom-Chart
