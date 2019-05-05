@@ -20,3 +20,6 @@ Click the link at the bottom of the README to open the example in the Corvid Res
 * **Product Configurator:**	[Give customers tools to fully customize store products and make them one of a kind](https://github.com/wix-incubator/corvid-examples/tree/master/product-configurator)
 * **Weather Widget:** [Fetch data from a 3rd party service to create a widget](https://github.com/wix-incubator/corvid-examples/tree/master/weather-widget)
 * **Wishlist:** [Let customers add store items to their wishlist and save to purchase later](https://github.com/wix-incubator/corvid-examples/tree/master/wishlist)
+* **Featured Items:** [Feature select items on an index page](https://github.com/wix/corvid-examples/tree/master/Featured%20Items)
+
+
