@@ -1,4 +1,4 @@
-#### Visit [Corvid's website](https://www.wix.com/corvid) to onboard and continue learning.
+#### Visit the [Corvid by Wix website](https://www.wix.com/corvid) to onboard and continue learning.
 
 # Check out what you can do with Corvid!
 
